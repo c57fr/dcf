@@ -13,11 +13,13 @@ Partage & Développement Collectif Francophone
 
 - Globalement à vocation francophone, commentaires dans les scrits, codes et noms des variables, fonctions (Propriétés et méthodes), sorties HTML, messages des commits, etc... seront de préférences en français (Rêgle non stricte, surtout pour mots anglais récurrents - Ex. add, getMethod(), set, etc...)
 
-- Seule très forte recommandation: Dans votre outil Git préféré, **ajouter l'URL de ce déôt GitHub** afin de voire en live, les évolutions et de synchroniser en un clic votre dépôt local.
+- Seule très forte recommandation:
 
-  (**Ungit**: Add REMOTE** / **Gitkraken**: REMOTE + + , etc...)
+  Dans votre outil Git préféré, **ajouter l'URL de ce dépôt GitHub** afin de voire en *live*, les évolutions successives et de synchroniser en un clic votre propre dépôt local.
 
-- Dans ce projet, sous license MIT, **tout est négociable, modifiable, etc... Par chaque membre du groupe, et chacun peut @d libitum y effectuer un** ***MR**** ( Donc, même cette page ! ;-) ).
+  **Ungit**: Add REMOTE** / **Gitkraken**: REMOTE + +, etc...
+
+- Dans ce projet, sous license *MIT*, **tout y est négociable, modifiable, etc... Par chacun des membres du groupe, et chacun peut @d libitum y effectuer un** ***MR**** ( Donc, même pour faire évoluer cette page ! ;-) ).
 
 [Dépôt GitHub](https://github.com/c57fr/dcf)
 
