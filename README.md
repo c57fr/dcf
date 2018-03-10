@@ -1,7 +1,6 @@
-# dcf
-Partage & Développement Collectif Francophone
+# dcf Partage & Développement Collectif Francophone
 
-## Buts:
+## Buts
 
 - Servir de mémoire d'une librairie de docs échangés,
 
@@ -9,9 +8,9 @@ Partage & Développement Collectif Francophone
 
 - @ l'occasion des échanges et idées entre membres GrafikArtiens, permettre de dev collectivement tout ou partie de scripts.
 
-## Rêgles de base:
+## Rêgles de base
 
-- Globalement à vocation francophone, commentaires dans les scrits, codes et noms des variables, fonctions (Propriétés et méthodes), sorties HTML, messages des commits, etc... seront de préférences en français (Rêgle non stricte, surtout pour mots anglais récurrents - Ex. add, getMethod(), set, etc...)
+- Globalement à vocation francophone, commentaires dans les scrits, codes et noms des variables, fonctions (Propriétés et méthodes), sorties HTML, messages des commits, etc... seront de préférence en français (Rêgle non stricte, surtout pour mots anglais récurrents - Ex. add, getMethod(), set, etc...)
 
 - Seule très forte recommandation:
 
